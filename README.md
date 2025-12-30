@@ -1,4 +1,4 @@
-# ✅ Script to Watch Later Videos from YouTube 
+# ✅ Script to REMOVE Watch Later Videos from YouTube 
 # ❌ No need to install anything 
 
 ## Step 1️⃣ 
